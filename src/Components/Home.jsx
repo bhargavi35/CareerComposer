@@ -29,7 +29,7 @@ const Home = () => {
       </Box>
       <Box>
         <Heading pt={2}>Why trying CareerComposer?</Heading>
-        <Image p={2} src={cv} className="main" />
+        <Image p={2} src={cv} className="mainImg" />
       </Box>
       <br />
       <Box fontSize={22}>
