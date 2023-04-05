@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="containers py-3">
         <div className="row">
           <div className="col-md-6">
-            <p className="mb-0">
+            <p className="mb-0" style={{padding:"1%"}}>
               © 2023 Developed with love by Bhargavi. All Rights Reserved.
             </p>
           </div>

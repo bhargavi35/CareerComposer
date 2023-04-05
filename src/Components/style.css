@@ -108,9 +108,8 @@ a:hover {
 .icons {
   display: flex;
   justify-content: center;
-  margin: 1%;
   gap: 2%;
-  padding: 2%;
+  padding: 1%;
 }
 .b {
   margin: 0%;

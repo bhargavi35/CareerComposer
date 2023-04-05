@@ -1,0 +1,78 @@
+.bodyContainer {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  padding-top: 0;
+}
+
+.heading {
+  font-weight: 500;
+  font-size: 2.1rem;
+}
+
+.toolbar {
+  width: 100%;
+  display: flex;
+  gap: 40px;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.toolbar button {
+  padding: 8px 16px;
+  border-radius: 5px;
+  background-color: #239ce2;
+  color: #fff;
+  outline: none;
+  border: none;
+  font-weight: 500;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  cursor: pointer;
+}
+
+.toolbar button svg {
+  height: 20px;
+  width: 20px;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  width: 100%;
+}
+
+
+/* input */
+.IpContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+label {
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+input {
+  border: 1px solid #cccccc;
+  outline: none;
+  padding: 10px 12px;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+
+input:hover {
+  border: 1px solid #adadad;
+}
+
+input:focus {
+  border: 1px solid #239ce2;
+}

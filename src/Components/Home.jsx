@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Button, Image,Heading } from "@chakra-ui/react";
+import { Box, Button, Image, Heading } from "@chakra-ui/react";
 import "./style.css";
 import { Link } from "react-router-dom";
 import cv from "./home.jpg";
@@ -29,8 +29,21 @@ const Home = () => {
       </Box>
       <Box>
         <Heading pt={2}>Why trying CareerComposer?</Heading>
-        <Image p={2} src={cv} className="main"/>
+        <Image p={2} src={cv} className="main" />
       </Box>
+      <br />
+      <Box fontSize={22}>
+        {/* You can save your data and use it in the future. */}
+        <br />
+        <b>what do you think! isn‘t it amazing?</b>
+      </Box>
+      <Link to="/cv">
+        <Button m={2} colorScheme="teal">
+          Show Me How!
+        </Button>
+      </Link>
+      <br />
+      <br />
     </>
   );
 };
