@@ -1,0 +1,115 @@
+.nav {
+  height: 60px;
+  background: #1976d2;
+  background: linear-gradient(90deg, #1976d2 0%, #1565c0 100%);
+  font-family: "Roboto";
+  font-size: 20px;
+  letter-spacing: -0.02em;
+  box-shadow: 0px 4px 10px rgba(141, 159, 179, 0.3);
+  transition: all 0.3s ease-in-out;
+}
+.logo {
+  width: 180px;
+}
+.topIcon {
+  font-size: 20px;
+  margin-right: 12px;
+  /* color: #444; */
+  cursor: pointer;
+}
+/* .navbarNav {
+  color: #fff !important;
+  border-color: #fff !important;
+  outline: 0 !important;
+} */
+.navItem {
+  margin: 12px 15px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 20px;
+}
+.navItem a {
+  color: #fff;
+  text-decoration: none;
+  display: block;
+}
+/* .navItem a:hover {
+  background-color: #08aeea;
+  background-image: linear-gradient(90deg, #08aeea 0%, #2af598 10%);
+  -webkit-text-fill-color: transparent;
+} */
+
+/* home */
+.container {
+  padding: 50px 30px;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 30px;
+  background-color: rgb(238, 252, 255);
+  min-height: 85vh;
+  background-repeat: no-repeat;
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.5),
+      rgba(255, 255, 255, 0.5)
+    ),
+    url("https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg?auto=compress&cs=tinysrgb&w=600");
+  background-size: cover;
+  background-position: center;
+  /* background-image: url("https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg?auto=compress&cs=tinysrgb&w=600"); */
+}
+
+.heading {
+  margin: 0 auto;
+  max-width: 500px;
+  color: #000;
+  font-size: 3.1rem;
+  line-height: 4.1rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.heading span {
+  background-clip: text;
+  background-image: linear-gradient(to right, #239ce2, #1369b9);
+  color: transparent;
+}
+
+.right img {
+  width: 400px;
+}
+
+/* footer */
+.containers .row{
+  background-color: #2f3c42;
+  color: white;
+  width: 100%;
+  height: auto;
+}
+footer {
+  padding: 5px 0;
+  padding-bottom: 0%;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  opacity: 0.7;
+}
+.icons {
+  display: flex;
+  justify-content: center;
+  margin: 1%;
+  gap: 2%;
+  padding: 2%;
+}
+.b{
+  margin: 0%;
+  padding: 0%;
+  background: #263238;
+}
