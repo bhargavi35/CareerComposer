@@ -80,9 +80,13 @@
 .right img {
   width: 400px;
 }
-
+.main {
+  width: 60%;
+  margin: auto;
+  padding: 5%;
+}
 /* footer */
-.containers .row{
+.containers .row {
   background-color: #2f3c42;
   color: white;
   width: 100%;
@@ -108,7 +112,7 @@ a:hover {
   gap: 2%;
   padding: 2%;
 }
-.b{
+.b {
   margin: 0%;
   padding: 0%;
   background: #263238;
