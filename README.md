@@ -83,8 +83,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-#### [Go to WTFresume website](https://ccresume-bhargavi35.vercel.app/ "CareerComposer")
-
 <h4 align="center">Deployed On:</h4>
 
 <p align="center">
@@ -92,6 +90,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
  
 </p>
 
+#### [Go to WTFresume website](https://ccresume-bhargavi35.vercel.app/ "CareerComposer")
 
 ### Tools used on this project
 
