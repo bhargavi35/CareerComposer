@@ -103,8 +103,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Contact
 
 If you want to contact me, you can reach me through below handles. <br />
-[![linkedin](https://img.shields.io/badge/Bhargavi_Chella?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargavichella/)
-[![GitHub](https://img.shields.io/badge/Bhargavi_Chella?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/bhargavi35)
+[![linkedin](https://img.shields.io/badge/Bhargavi_Chella-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargavichella/)
+[![GitHub](https://img.shields.io/badge/Bhargavi_Chella-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/bhargavi35)
 
 
 © 2023 Bhargavi Chella
