@@ -88,9 +88,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 <p align="center">
   <img src="https://img.shields.io/badge/Vercel-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
  
+  #### [Go to WTFresume website](https://ccresume-bhargavi35.vercel.app/ "CareerComposer")
+
 </p>
 
-#### [Go to WTFresume website](https://ccresume-bhargavi35.vercel.app/ "CareerComposer")
+<br />
 
 ### Tools used on this project
 
